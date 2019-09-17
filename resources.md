@@ -64,6 +64,8 @@ https://github.com/phunware
 
 [xAPIs Samples:](https://github.com/ObjectIsAdvantag/xapi-samples)
 
+[Curated list of developer resources to integrate with Webex Devices](https://github.com/CiscoDevNet/awesome-xapi)
+
 
 ### Webex Teams & SDKs
 
